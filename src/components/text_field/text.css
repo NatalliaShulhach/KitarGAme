@@ -1,0 +1,7 @@
+.paperText{
+    text-align: center;
+    background-color:  cadetblue !important;
+    opacity: .5;
+    height: 10rem;
+    z-index: 1001;
+}
